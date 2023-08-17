@@ -1,0 +1,11 @@
+.users-list-container {
+    display: flex;
+}
+
+.users-form {
+    flex: 0 0 30%;
+}
+
+.users-table {
+    flex: 1
+}
